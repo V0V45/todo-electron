@@ -1,0 +1,16 @@
+.tasks {
+    margin: 16px 8px 0 8px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.task {
+    margin-bottom: 8px;
+}
+
+.addTask {
+    align-self: flex-end;
+}

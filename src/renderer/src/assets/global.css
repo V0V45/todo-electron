@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bgColor: #1E1E1E;
+    --accentColor: #FF6B6B;
+    --accentDarkColor: #4C1F1F;
+    --secondaryColor: #FFD166;
+    --hintColor: #4ECDC4;
+}
+
+body {
+    background-color: var(--bgColor);
+}
+
+button {
+    background-color: transparent;
+    border: none;
+}
